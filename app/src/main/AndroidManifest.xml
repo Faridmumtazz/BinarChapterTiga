@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="mumtaz.binar.chaptertiga">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChapterTiga">
+        <activity
+            android:name=".serializable.DLatihan"
+            android:exported="false" />
+        <activity
+            android:name=".serializable.CLatihan"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".serializable.BLatihan"
+            android:exported="false" />
+        <activity
+            android:name=".serializable.ALatihan"
+            android:exported="true" />
+        <activity
+            android:name=".serializable.SecondActivity"
+            android:exported="false" />
+        <activity
+            android:name=".serializable.FirstActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Dua"
+            android:exported="false" />
+        <activity
+            android:name=".Satu"
+            android:exported="false" />
+        <activity
+            android:name=".Beranda"
+            android:exported="true"
+            android:label="Beranda" />
+        <activity
+            android:name=".Profile"
+            android:exported="false"
+            android:label="Profile" />
+        <activity
+            android:name=".Web"
+            android:exported="false" />
+        <activity
+            android:name=".Homedua"
+            android:exported="false"
+            android:label="Sejarah" />
+        <activity
+            android:name=".Home"
+            android:exported="false"
+            android:label="Home" />
+        <activity
+            android:name=".Login"
+            android:exported="true"
+            android:label="Login" />
+        <activity
+            android:name=".Activityb"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityA"
+            android:exported="true" />
+        <activity
+            android:name=".WebView"
+            android:exported="true"
+            android:label="Web Binar" />
+        <activity
+            android:name=".HalamanDua"
+            android:exported="false"
+            android:label="Logout" />
+        <activity
+            android:name=".LatihanSatu"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_activity_a.xml" value="0.11096014492753623" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_activity_b.xml" value="0.11096014492753623" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_alatihan.xml" value="0.1" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_beranda.xml" value="0.18" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_blatihan.xml" value="0.1" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_clatihan.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_dlatihan.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_dua.xml" value="0.1" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_first.xml" value="0.184375" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_halaman_dua.xml" value="0.1" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_homedua.xml" value="0.25" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_latihan_satu.xml" value="0.1703125" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_satu.xml" value="0.1" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_second.xml" value="0.1703125" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_web.xml" value="0.1" />
+        <entry key="..\:/Users/Mumtaz/Development/ChapterTiga/app/src/main/res/layout/activity_web_view.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
